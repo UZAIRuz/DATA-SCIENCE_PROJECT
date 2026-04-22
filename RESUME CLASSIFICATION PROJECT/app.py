@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 27 00:18:45 2024
 
-@author: viraj
+@author: Uzair
 """
 import pickle
 import streamlit as st
